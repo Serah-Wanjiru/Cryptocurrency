@@ -1,0 +1,213 @@
+.body{
+    background-color: black;
+}
+
+
+.nav2{
+    width: 50%;
+}
+.nav3{
+    width: 50%;
+}
+.nav1 ul li{
+    list-style: none;
+    padding: 3px;
+    display: inline;
+    margin: 1rem;
+    color: white;
+
+
+}
+.nav1{
+    display: flex;
+    border: 100%;
+}
+.img{
+    display: flex;
+}
+.list ul li{
+    list-style: none;
+    padding: 3px;
+    display: inline;
+    margin: 1rem;
+    justify-content: space-between;
+
+}
+.th, td ,tr{
+    border: .15em solid green;
+    padding: 50px;
+
+  
+   }
+.table{
+       margin-left:auto;
+       margin-right: auto;
+   
+}
+.bord1{
+    border: solid;
+    width: 30%;
+    height: 100%;
+    padding: 20px;
+    border-radius: 25px;
+    
+}
+.bord2{
+    border: solid;
+    width: 30%;
+    height: 100%;
+    padding: 20px;
+    border-radius: 25px;
+    
+}
+.bord3{
+    border: solid;
+    width: 30%;
+    height: 100%;
+    padding: 20px;
+    border-radius: 25px;
+    
+}
+.very{
+    display: flex;
+    justify-content: space-between;
+    border: solid;
+    background-color: rgb(246,102,102);
+    position: relative;
+}
+.ready{
+    border: solid;
+    width: 50%;
+    height: 50%;
+    margin-left: 20%;
+    padding-left: 30px;
+}
+.part1{
+    display: flex;
+}
+.mesh{
+    display: flex;
+}
+.me{
+    padding-left: 20%;
+}
+.yes{
+    width: 120%;
+    height: 120%;
+}
+.a{
+    color: white;
+}
+.b{
+    color: white;
+}
+.c{
+    color: white;
+    
+}
+.d{
+    color: white;
+    padding-left: 50%;
+}
+.part1{
+    color: white;
+}
+.ready{
+    color: white;
+}
+.f{
+    width: 180%;
+    height: 80%;
+    padding-left: 80%;
+}
+.part2{
+    padding-left: 15%;
+}
+.cry{
+    display: flex;
+}
+.carry{
+    color: white;
+}
+.pink{
+    top: -500px;
+}
+.blue{
+    padding-left: 100%;
+ 
+}
+.het{
+    top: -800px;
+}
+.pinkblue{
+    padding-left: 20%;
+}
+.carry{
+    padding-left: 15%;
+}
+.just{
+    display: flex;
+    padding-left: 50%;
+    margin-top: -280px;
+}
+.uv{
+    padding-left: 15%;
+}
+.b{
+    padding-left: 15%;
+}
+.bord4{
+    padding-left: 50px;
+}
+.a{
+    padding-left: 15%;
+}
+.words{
+    font-size: 300%;
+}
+.words1{
+    font-size: 300%;
+    color: green;
+    
+}
+.buttton1{
+    padding: 20px;
+    background-color: green;
+    border-radius: 10px;
+}
+.table{
+    display: grid;
+    grid-template-columns: repeat(5, 5fr);
+}
+.A{
+    color: green;
+}
+.B{
+    color: red;
+}
+.C{
+    color: green;
+}
+.D{
+    color: red;
+}
+.E{
+    color: green;
+}
+.F{
+    color: red;
+}
+.list{
+    background-color: green;
+    gap: 50%;
+    border: 10px;
+    padding: 15px;
+}
+.button2{
+    background-color: green;
+    padding: 10px;
+}
+.button3{
+    color: green;
+}
+
